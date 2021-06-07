@@ -218,7 +218,7 @@ const data = [
   },
   {
     id: 43,
-    answer: "Puedo hablar en inglés, por favor",
+    answer: "Puedo hablar en ingles, por favor",
     question: "Puis-je parler en anglais, stp?",
   },
   {
