@@ -138,7 +138,7 @@ const data = [
   },
   {
     id: 27,
-    answer: "Soy simpático y deportivo",
+    answer: "Soy simpatico y deportivo",
     question: "Je suis sympathique et sportif.",
   },
   {
