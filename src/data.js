@@ -223,7 +223,7 @@ const data = [
   },
   {
     id: 44,
-    answer: "Cómo se escribe...",
+    answer: "Como se escribe...",
     question: "Comment écrit-t-on...",
   },
   {
