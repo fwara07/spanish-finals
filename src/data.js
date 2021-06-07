@@ -273,7 +273,7 @@ const data = [
   },
   {
     id: 54,
-    answer: "Jeuves",
+    answer: "Jueves",
     question: "Jeudi",
   },
   {
