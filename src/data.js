@@ -203,7 +203,7 @@ const data = [
   },
   {
     id: 40,
-    answer: "Me olvidé mi libro en mi casillero",
+    answer: "Me olvide mi libro en mi casillero",
     question: "J’ai oublié mon livre dans mon casillé",
   },
   {
