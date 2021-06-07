@@ -193,7 +193,7 @@ const data = [
   },
   {
     id: 38,
-    answer: "Peudo beber agua",
+    answer: "Puedo beber agua",
     question: "Puis-je boire de l’eau",
   },
   {
