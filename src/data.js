@@ -703,7 +703,7 @@ const data = [
   },
   {
     id: 138,
-    answer: "Una grande casa ",
+    answer: "Una grande casa",
     question: "Une grande maison",
   },
   {
