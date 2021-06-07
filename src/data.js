@@ -37,7 +37,7 @@ const data = [
   {
     id: 7,
     answer: "Me llamo...",
-    question: "Bonjour, comment allez-vous?",
+    question: "Je m'appelle...",
   },
   {
     id: 8,
