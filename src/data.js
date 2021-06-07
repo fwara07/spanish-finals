@@ -126,13 +126,13 @@ const data = [
   },
   {
     id: 25,
-    answer: "Mi cumpleanos es el tres de febrero.",
+    answer: "Mi cumpleanos es el tres de febrero",
     question: "Ma fête est le trois février.",
   },
   {
     id: 26,
     answer:
-      "Mis pasatiempos preferidos son escuchar música y jugar videojuegos.",
+      "Mis pasatiempos preferidos son escuchar musica y jugar videojuegos",
     question:
       "Mes passe-temps préférés sont d' écouter de la musique et jouer aux jeux vidéo.",
   },
