@@ -16,7 +16,7 @@ const data = [
   },
   {
     id: 3,
-    answer: "Buenos días",
+    answer: "Buenos dias",
     question: "Bonjour",
   },
   {
