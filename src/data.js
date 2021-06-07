@@ -11,7 +11,7 @@ const data = [
   },
   {
     id: 2,
-    answer: "Hola, cómo está usted",
+    answer: "Hola, como esta usted",
     question: "Bonjour, comment allez-vous?",
   },
   {
