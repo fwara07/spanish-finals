@@ -768,7 +768,7 @@ const data = [
   },
   {
     id: 151,
-    answer: "pelo café",
+    answer: "pelo cafe",
     question: "cheveux brun",
   },
   {
