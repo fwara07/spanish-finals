@@ -263,8 +263,8 @@ const data = [
   },
   {
     id: 52,
-    answer: "Mardi",
-    question: "Martes",
+    answer: "Martes",
+    question: "Mardi",
   },
   {
     id: 53,
